@@ -10,3 +10,4 @@ Useful features learnt:
 /Implementing Game Logic using detailed if else statements
 /Implementing highscores (keeping track of user performance even after restoring functionalities)
 /Understanding input fields
+/Refactoring code with DRY Principle in mind
