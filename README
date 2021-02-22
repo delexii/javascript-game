@@ -1,1 +1,12 @@
+Guess My Number
 
+Project was done as part of The complete JavaScript Course with Udemy.
+
+Useful features learnt:
+/DOM Manipulation
+/Selecting and manipulating HTMl elements using querySelector
+/Manipulating CSS styles
+/Handling click events using addEventListener
+/Implementing Game Logic using detailed if else statements
+/Implementing highscores (keeping track of user performance even after restoring functionalities)
+/Understanding input fields
