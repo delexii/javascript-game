@@ -1,0 +1,24 @@
+{
+    "name": "javascript-game",
+    "version": "1.0.0",
+    "description": "javascript guess number game",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npm start"
+    },
+    "engines": {
+      "node": "16.13.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/delexii/javascript-game.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/delexii/javascript-game/issues"
+    },
+    "homepage": "https://github.com/delexii/javascript-game#readme",
+    "lockfileVersion": 1
+}
